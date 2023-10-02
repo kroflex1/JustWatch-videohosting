@@ -1,3 +1,3 @@
 # JustWatch-videohosting
-### Back: https://github.com/kroflex1/JustWatch
-### Front: https://github.com/kroflex1/JustWatch-front
+### Backend: https://github.com/kroflex1/JustWatch
+### Frontend: https://github.com/kroflex1/JustWatch-front
